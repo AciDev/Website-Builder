@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": false,
+    "lib": ["es2015", "dom", "dom.iterable"],
+    "allowSyntheticDefaultImports": false
+  }
+}
